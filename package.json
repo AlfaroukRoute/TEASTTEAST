@@ -17,6 +17,7 @@
   "homepage": "https://github.com/AlfaroukRoute/TEASTTEAST#readme",
   "description": "",
   "dependencies": {
-    "bootstrap": "^5.3.7"
+    "bootstrap": "^5.3.7",
+    "dayjs": "^1.11.13"
   }
 }
