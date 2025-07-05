@@ -15,5 +15,8 @@
     "url": "https://github.com/AlfaroukRoute/TEASTTEAST/issues"
   },
   "homepage": "https://github.com/AlfaroukRoute/TEASTTEAST#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.7"
+  }
 }
